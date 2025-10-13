@@ -1,1 +1,1 @@
-# recipes
+Project will illustrate HTML knowledge learnt thus far in the Odin Project by creating a recipes type webpage. 
